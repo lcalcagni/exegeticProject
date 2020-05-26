@@ -13,7 +13,7 @@ I convert the response of the requests into a Pandas DataFrame, then I get the n
 
 {: .fs-6 .fw-300 }
 
-[Download Jupyter Notebook for this section](https://github.com/lcalcagni/exegeticProject/notebooks/APIpython.ipynb){: .btn .fs-3 .mb-2 .mb-md-0 }
+[Download Jupyter Notebook for this section](https://github.com/lcalcagni/exegeticProject/blob/master/notebooks/APIpython.ipynb){: .btn .fs-3 .mb-2 .mb-md-0 }
 
 ---
 ## Requests and responses
