@@ -16,7 +16,7 @@
 title: Exegetic<br/>
        Laura Calcagni
 description: A Jekyll theme for documentation
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/exegeticProject" # the subpath of your site, e.g. /blog
 url: "https://lcalcagni.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
