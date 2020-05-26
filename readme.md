@@ -6,6 +6,8 @@ The Swagger documentation for the API is [here](https://api.trundler.dev/ ) and 
 
 The intent of this project is to become familiar with the API and to look through the data and trying to find something interesting.
 
+You can see the complete project [here](https://lcalcagni.github.io/exegeticProject/home)
+
 ---
 
 ## Getting familiar with the API using Python
