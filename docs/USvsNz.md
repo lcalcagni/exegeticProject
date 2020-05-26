@@ -45,7 +45,7 @@ retailer(109)
 
 
 <table>
-<thead><tr><th scope=col>retailer_id</th><th scope=col>retailer</th><th scope=col>retailer_url</th><th scope=col>currency</th></tr></thead>
+<thead><tr><th scope="col">retailer_id</th><th scope="col">retailer</th><th scope="col">retailer_url</th><th scope="col">currency</th></tr></thead>
 <tbody>
 	<tr><td>109                     </td><td>CottonOn (US)           </td><td>https://cottonon.com/US/</td><td>USD                     </td></tr>
 </tbody>
@@ -89,7 +89,7 @@ combined_nzus
 
 
 <table>
-<thead><tr><th scope=col>sku</th><th scope=col>product</th><th scope=col>nz_prod_id</th><th scope=col>us_prod_id</th></tr></thead>
+<thead><tr><th scope="col">sku</th><th scope="col">product</th><th scope="col">nz_prod_id</th><th scope="col">us_prod_id</th></tr></thead>
 <tbody>
 	<tr><td>2010837-11                              </td><td>The Original Graphic Tee                </td><td>2415630                                 </td><td>2601194                                 </td></tr>
 	<tr><td>2010837-10                              </td><td>The Original Graphic Tee                </td><td>2415633                                 </td><td>2601195                                 </td></tr>
