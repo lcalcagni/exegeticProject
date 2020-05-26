@@ -11,15 +11,11 @@ The intent of this project is to become familiar with the API and to look throug
 ## Getting familiar with the API using Python
 Since I work mostly in Python, in this section I will explore the API using Python and the ``requests`` package.
 
-<br>
 <br>  
-
 
 ## US vs NZ: retail prices comparison during COVID-19
 There is a retailer located both in the USA and in New Zealand. Since these are two countries with such a different evolution of the number of COVID-19 infected people, I want to evaluate if there is some variability in the price of the products sold by the retailer that are shared in both countries, and if it has a correlation with the number of COVID-19 cases per day in each country.
 
-
-<br>
 <br>  
 
 ## New functionalities
@@ -31,9 +27,6 @@ Many of the interesting conclusions that can be drawn from this data set are ass
 
 For people who don’t have access to the entire database, some new functionalities for the detection of variability of those variables could be useful and are proposed in this section.
 
-
-
-<br>
 <br>  
 
 ## Variability detection
