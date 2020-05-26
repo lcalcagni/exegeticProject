@@ -8,14 +8,6 @@ The intent of this project is to become familiar with the API and to look throug
 
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Getting familiar with the API using Python
 Since I work mostly in Python, in this section I will explore the API using Python and the ``requests`` package.
 
