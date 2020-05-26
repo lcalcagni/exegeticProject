@@ -12,7 +12,7 @@ There is a retailer located both in the USA and in New Zealand. Since these are 
 
 {: .fs-6 .fw-300 }
 
-[Download Jupyter Notebook for this section](https://github.com/lcalcagni/exegeticProject/notebooks/nzus.ipynb){: .btn .fs-3 .mb-2 .mb-md-0 }
+[Download Jupyter Notebook for this section](https://github.com/lcalcagni/exegeticProject/blob/master/notebooks/nzus.ipynb){: .btn .fs-3 .mb-2 .mb-md-0 }
 
 ---
 
