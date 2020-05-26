@@ -2,7 +2,7 @@
 layout: default
 title: Exploring Trundler
 nav_order: 1
-permalink: /
+permalink: /exegeticProject
 ---
 
 # Exploring Trundler
