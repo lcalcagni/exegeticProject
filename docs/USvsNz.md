@@ -37,7 +37,7 @@ retailer(109)
 
 
 <table>
-<thead><tr><th scope=col>retailer_id</th><th scope=col>retailer</th><th scope=col>retailer_url</th><th scope=col>currency</th></tr></thead>
+<thead><tr><th scope="col">retailer_id</th><th scope="col">retailer</th><th scope="col">retailer_url</th><th scope="col">currency</th></tr></thead>
 <tbody>
 	<tr><td>105                     </td><td>CottonOn (NZ)           </td><td>https://cottonon.com/NZ/</td><td>NZD                     </td></tr>
 </tbody>
